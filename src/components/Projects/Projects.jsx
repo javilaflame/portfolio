@@ -15,7 +15,7 @@ const Projects = () => {
         <h1 className="sectionTitle">{t("projects.title")}</h1>
         <div className={styles.projectsContainer}>
             <ProjectCard desc={t("projects.spotifyDesc")} pic={spotify} title={t("projects.spotify")} link={"http://localhost:5173/"} />
-            <ProjectCard desc={t("projects.youtubeDesc")} pic={youtube} title={t("projects.youtube")} link={"http://localhost:5173/"} />
+            <ProjectCard desc={t("projects.youtubeDesc")} pic={youtube} title={t("projects.youtube")} link={"https://yt-clone-javi.netlify.app/"} />
         </div>
     </div>
   )
