@@ -1,0 +1,27 @@
+{
+    "hero": {
+        "subtitle": "FRONTEND DEVELOPER",
+        "description": "With a passion for creating modern websites using React JS technology.",
+        "buttonText": "Resume"
+    },
+    "projects": {
+        "title": "PROJECTS",
+        "spotify": "Spotify Clone",
+        "spotifyDesc": "Music player with a song controller button, using React JS and Tailwind CSS.",
+        "youtube": "YouTube Clone",
+        "youtubeDesc": "YouTube clone web app project using React JS and using the YouTube data API to get the YouTube videos and the statistics of each video."
+    },
+    "skills": {
+        "title": "SKILLS"
+    },
+    "contact": {
+        "title": "CONTACT",
+        "button": "Submit",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message"
+    },
+    "footer": {
+        "copyright": "All rights reserved."
+    }
+}

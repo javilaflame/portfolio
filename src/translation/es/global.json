@@ -1,0 +1,27 @@
+{
+    "hero": {
+        "subtitle": "DESARROLLADOR FRONTEND",
+        "description": "Con una pasión por crear sitios web modernos usando la tecnología de React JS.",
+        "buttonText": "Currículum"
+    },
+    "projects": {
+        "title": "PROYECTOS",
+        "spotify": "Clon de Spotify",
+        "spotifyDesc": "Reproductor de musica con botones para controlar la reproducción, usando React JS y Tailwind CSS.",
+        "youtube": "Clon de YouTube",
+        "youtubeDesc": "Aplicación web emulando la funcionalidad de YouTube, usando React JS y usando los datos de la API de YouTube para obtener los videos y sus estadisticas."
+    },
+    "skills": {
+        "title": "CONOCIMIENTOS"
+    },
+    "contact": {
+        "title": "CONTACTO",
+        "button": "Enviar",
+        "name": "Nombre",
+        "email": "Correo",
+        "message": "Mensaje"
+    },
+    "footer": {
+        "copyright": "Todos los derechos reservados."
+    }
+}

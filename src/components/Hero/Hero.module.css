@@ -69,7 +69,10 @@
 }
 
 .description {
-    max-width: 24ch;
+    width: 300px;
+    text-align: center;
+    display: flex;
+    
 }
 
 .info {

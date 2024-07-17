@@ -59,6 +59,11 @@ input[type='submit']:active {
     box-shadow: 0 2px 2px rgba(0,0,0,0.25);
 }
 
+.result {
+    color: var(--text-color);
+    font-family: 'Roboto Mono', monospace;
+}
+
 @media (width >= 1400px) {
     textarea, input:not([type='submit']) {
         width: 800px;
