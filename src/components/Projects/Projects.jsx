@@ -14,7 +14,7 @@ const Projects = () => {
         <div className={styles.projectsContainer}>
             <ProjectCard desc={t("projects.spotifyDesc")} pic={spotify} title={t("projects.spotify")} link={"https://spotify-clone-javi.netlify.app/"} />
             <ProjectCard desc={t("projects.youtubeDesc")} pic={youtube} title={t("projects.youtube")} link={"https://yt-clone-javi.netlify.app/"} />
-            <ProjectCard desc={t("projects.geminiDesc")} pic={gemini} title={t("projects.gemini")} link={"https://yt-clone-javi.netlify.app/"} />
+            <ProjectCard desc={t("projects.geminiDesc")} pic={gemini} title={t("projects.gemini")} link={"https://gemini-clone-javi.netlify.app/"} />
         </div>
     </div>
   )
