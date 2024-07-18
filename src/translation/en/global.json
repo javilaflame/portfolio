@@ -11,7 +11,9 @@
         "youtube": "YouTube Clone",
         "youtubeDesc": "YouTube clone web app project using React JS and using the YouTube data API to get the YouTube videos and the statistics of each video.",
         "gemini": "Gemini Chat",
-        "geminiDesc": "A functional AI chat using React JS and Gemini from Google."
+        "geminiDesc": "A functional AI chat using React JS and Gemini from Google.",
+        "hsguate": "HSGUATE",
+        "hsguateDesc": "A modern React landing page for a technology business."
     },
     "skills": {
         "title": "SKILLS"

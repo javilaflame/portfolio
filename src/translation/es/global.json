@@ -11,7 +11,9 @@
         "youtube": "Clon de YouTube",
         "youtubeDesc": "Aplicación web emulando la funcionalidad de YouTube, usando React JS y usando los datos de la API de YouTube para obtener los videos y sus estadisticas.",
         "gemini": "Gemini Chat",
-        "geminiDesc": "Un chat de IA funcional usando React JS e implementando Gemini de Google."
+        "geminiDesc": "Un chat de IA funcional usando React JS e implementando Gemini de Google.",
+        "hsguate": "HSGUATE",
+        "hsguateDesc": "Una página con un diseño moderno, hecha con React para un negocio de tecnología."
     },
     "skills": {
         "title": "CONOCIMIENTOS"

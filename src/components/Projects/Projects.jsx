@@ -3,6 +3,7 @@ import styles from "./Projects.module.css"
 import youtube from "../../assets/youtube.png"
 import spotify from "../../assets/spotify.png"
 import gemini from "../../assets/gemini.png"
+import hsguate from "../../assets/hsguate.png"
 import ProjectCard from '../../common/ProjectCard'
 import { useTranslation } from 'react-i18next'
 
@@ -15,6 +16,7 @@ const Projects = () => {
             <ProjectCard desc={t("projects.spotifyDesc")} pic={spotify} title={t("projects.spotify")} link={"https://spotify-clone-javi.netlify.app/"} />
             <ProjectCard desc={t("projects.youtubeDesc")} pic={youtube} title={t("projects.youtube")} link={"https://yt-clone-javi.netlify.app/"} />
             <ProjectCard desc={t("projects.geminiDesc")} pic={gemini} title={t("projects.gemini")} link={"https://gemini-clone-javi.netlify.app/"} />
+            <ProjectCard desc={t("projects.hsguateDesc")} pic={hsguate} title={t("projects.hsguate")} link={"https://hsguate.netlify.app/"} />
         </div>
     </div>
   )
