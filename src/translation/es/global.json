@@ -9,7 +9,9 @@
         "spotify": "Clon de Spotify",
         "spotifyDesc": "Reproductor de musica con botones para controlar la reproducción, usando React JS y Tailwind CSS.",
         "youtube": "Clon de YouTube",
-        "youtubeDesc": "Aplicación web emulando la funcionalidad de YouTube, usando React JS y usando los datos de la API de YouTube para obtener los videos y sus estadisticas."
+        "youtubeDesc": "Aplicación web emulando la funcionalidad de YouTube, usando React JS y usando los datos de la API de YouTube para obtener los videos y sus estadisticas.",
+        "gemini": "Gemini Chat",
+        "geminiDesc": "Un chat de IA funcional usando React JS e implementando Gemini de Google."
     },
     "skills": {
         "title": "CONOCIMIENTOS"

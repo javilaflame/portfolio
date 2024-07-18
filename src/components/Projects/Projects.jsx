@@ -1,10 +1,8 @@
 import React from 'react'
 import styles from "./Projects.module.css"
-import viberr from '../../assets/viberr.png'
-import frshBrg from "../../assets/fresh-burger.png"
-import hipster from "../../assets/hipsster.png"
 import youtube from "../../assets/youtube.png"
 import spotify from "../../assets/spotify.png"
+import gemini from "../../assets/gemini.png"
 import ProjectCard from '../../common/ProjectCard'
 import { useTranslation } from 'react-i18next'
 
@@ -16,6 +14,7 @@ const Projects = () => {
         <div className={styles.projectsContainer}>
             <ProjectCard desc={t("projects.spotifyDesc")} pic={spotify} title={t("projects.spotify")} link={"https://spotify-clone-javi.netlify.app/"} />
             <ProjectCard desc={t("projects.youtubeDesc")} pic={youtube} title={t("projects.youtube")} link={"https://yt-clone-javi.netlify.app/"} />
+            <ProjectCard desc={t("projects.geminiDesc")} pic={gemini} title={t("projects.gemini")} link={"https://yt-clone-javi.netlify.app/"} />
         </div>
     </div>
   )
