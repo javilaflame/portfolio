@@ -13,7 +13,9 @@
         "gemini": "Gemini Chat",
         "geminiDesc": "Un chat de IA funcional usando React JS e implementando Gemini de Google.",
         "hsguate": "HSGUATE",
-        "hsguateDesc": "Una página con un diseño moderno, hecha con React para un negocio de tecnología."
+        "hsguateDesc": "Una página con un diseño moderno, hecha con React para un negocio de tecnología.",
+        "library": "Bookhub",
+        "libraryDesc": "Un sitio web que usando una API abierta, muestra diferentes libros y su informacion, con un diseño simple hecho con Tailwind."
     },
     "skills": {
         "title": "CONOCIMIENTOS"
