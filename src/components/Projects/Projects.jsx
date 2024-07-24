@@ -18,7 +18,7 @@ const Projects = () => {
             <ProjectCard desc={t("projects.youtubeDesc")} pic={youtube} title={t("projects.youtube")} link={"https://yt-clone-javi.netlify.app/"} />
             <ProjectCard desc={t("projects.geminiDesc")} pic={gemini} title={t("projects.gemini")} link={"https://gemini-clone-javi.netlify.app/"} />
             <ProjectCard desc={t("projects.hsguateDesc")} pic={hsguate} title={t("projects.hsguate")} link={"https://hsguate.netlify.app/"} />
-            <ProjectCard desc={t("projects.libraryDesc")} pic={book} title={t("projects.library")} link={"https://hsguate.netlify.app/"} />
+            <ProjectCard desc={t("projects.libraryDesc")} pic={book} title={t("projects.library")} link={"https://biblioteca-javilaflame.netlify.app/"} />
         </div>
     </div>
   )
